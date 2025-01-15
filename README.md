@@ -1,4 +1,4 @@
-## Sou o Guilherme Goedtel, trabalho com desenvolvimento de sistemas 
+## Sou o Guilherme Goedtel, sou desenvolvimento de sistemas 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
